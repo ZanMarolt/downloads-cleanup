@@ -8,3 +8,5 @@ See `make help` for possible options.
 
 Provide environment variable like this: `FOLDER_PATH=/full/path/to/folder make folder/check`
 
+![Terminal example](assets/terminal.gif)
+
